@@ -1,0 +1,25 @@
+#foot{
+     height:45px;
+	 }
+#foot a #face:hover{
+     background-color: #003366  ;
+     border-radius:	20px 20px 20px 20px ;
+	}
+	
+#foot a #in:hover{	
+	 background-color: #66ccff  ;
+     border-radius:	20px 20px 20px 20px ;
+	 }
+	 
+	 #foot a #you:hover{	
+	 background-color: #990000 ;
+     border-radius:	20px 20px 20px 20px ;
+	 }
+	 #foot a #twi:hover{	
+	 background-color: #0033ff  ;
+     border-radius:	20px 20px 20px 20px ;
+	 }
+	 #foot a #go:hover{	
+	 background-color: # ;
+     border-radius:	20px 20px 20px 20px ;
+	 }
